@@ -16,7 +16,7 @@ profiles:
     more_info: >
       <p>555 your office number</p>
       <p>KowLoon</p>
-      <p>Hong Kong ASR, China</p>
+      <p>Hong Kong SAR, China</p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
