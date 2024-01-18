@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.astri.org/'>ASTRI</a>. Photonics Centre, 2 Science Park East Avenue, Hong Kong Science Park, Shatin, Hong Kong. 
 
 profile:
   align: right
