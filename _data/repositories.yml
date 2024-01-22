@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - doinj
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Jessica-Yeung/JC-DMP-2022
+  - DoinJ/Knowledge-concept-FedRec
+
