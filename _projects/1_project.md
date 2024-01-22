@@ -2,7 +2,7 @@
 layout: page
 title:  Hong Kong Jockey Club “Diversity at Schools” project
 description: 賽馬會「校本多元計劃」
-img: assets/img/hkjc1.jpg
+img: 
 importance: 1
 category: work
 related_publications: 10031205
