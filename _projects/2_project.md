@@ -5,7 +5,6 @@ description: A graph embedding model for drug-drug interaction and side-effect p
 img: 
 importance: 3
 category: study
-giscus_comments: true
 ---
 
 ● Online data sources including Offsides, Twosides and Siders are used to construct a knowledge graph.
