@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 4
+title: Internship project 
 description: Intelligent Evaluation System of Chinese Calligraphy
 img:
 importance: 3
