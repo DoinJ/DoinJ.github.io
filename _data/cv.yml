@@ -29,16 +29,16 @@
   type: time_table
   contents:
     - title: Engineer
-      institution: ASTRI
+      institution: Hong Kong Applied Science and Technology Research Institute (ASTRI)
       year: 2023 - present
       description:
         - Trust AI.
         - title: Computational Liguinstic and Intelligence.
           contents:
-            - NLP.
-            - ASR.
+            - Natural Language Processing.
+            - Automatic Speech Regonition.
     - title: Research Assistant
-      institution: PolyU
+      institution: The Hong Kong Polytechnic Universitiy (PolyU)
       year: 1933
       description:
         - Big data and machine learning.
