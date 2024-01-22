@@ -4,7 +4,7 @@ title: MSc project
 description: A graph embedding model for drug-drug interaction and side-effect prediction 
 img: 
 importance: 3
-category: work
+category: study
 giscus_comments: true
 ---
 
