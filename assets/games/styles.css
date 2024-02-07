@@ -1,0 +1,1 @@
+body,html{height:100%;margin:0;padding:0;font-family:Arial,sans-serif;overflow:hidden}#game-area{width:100vw;height:100vh;position:relative;background-color:#f0f0f0}#smiley{font-size:30px;position:absolute;transform:translate(-50%,-50%);cursor:pointer}#scoreboard{position:absolute;top:10px;left:10px;background:rgba(255,255,255,0.7);padding:10px;border-radius:5px}
