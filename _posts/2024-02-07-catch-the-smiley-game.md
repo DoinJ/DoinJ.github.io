@@ -8,4 +8,4 @@ categories: sample-posts
 ---
 This is a simple game where you try to click on the smiley face as it moves around the screen. A FPS gamer can aim better and catch it more times than normal people. 
 
-[Can you catch it?](assets/games/catch-the-smiley.html){:target="_blank"}
+[Can you catch it?](/assets/games/catch-the-smiley.html){:target="_blank"}
