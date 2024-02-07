@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Catch the Smiley Game
-date: 2024-02-07 10:00:00
+date: 2024-02-06 10:00:00
 description: Play a simple game where you catch the smiley faces.
 tags: formatting games 
 categories: sample-posts
