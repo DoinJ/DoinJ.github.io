@@ -4,24 +4,19 @@
         margin: 0;
         padding: 0;
         font-family: Arial, sans-serif;
-        height: 100%; /* full height */
-        overflow: hidden; /* hide the overflow */
-    }
-    
-    .game-container {
-        display: flex;
-        flex-direction: column;
-        height: calc(100vh);  /* Height of the header and any other elements above the game container */
+        height: 100%; /* Ensure the full height is used */
+        overflow: hidden; /* Hide the overflow */
     }
 
-    .game-instructions {
+    .content {
+        /* Add padding, margin or any other style you wish to apply to the content */
         padding: 20px;
         text-align: center; /* Center the text if desired */
     }
     
     #game-area {
         width: 100vw;
-        height: calc(100vh - 50px); /* Adjust 50px to the actual height of your content and header */
+        height: calc(100vh - 60px); /* Adjust this value to match the actual height of your content area */
         position: relative;
         background-color: #f0f0f0; /* Light grey background for better visibility */
         overflow: hidden; /* Prevents any content from spilling outside the area */
@@ -42,4 +37,4 @@
         padding: 10px;
         border-radius: 5px;
     }
-  </style>
+</style>
