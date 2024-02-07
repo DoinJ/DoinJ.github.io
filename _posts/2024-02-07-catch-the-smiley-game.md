@@ -26,7 +26,7 @@ tags: game interactive
 categories: games
 ---
 
-This is a simple game where you try to click on the smiley face as it moves around the screen. Can you catch it?
+This is a simple game where you try to click on the smiley face as it moves around the screen. A FPS gamer can aim better and catch it more times than normal people. Can you catch it?
 
 <div id="game-area">
   <button id="smiley" onclick="scorePoint()">😊</button>
