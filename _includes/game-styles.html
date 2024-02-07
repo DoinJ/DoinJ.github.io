@@ -1,40 +1,29 @@
 <!-- _includes/game-styles.html -->
 <style>
     body, html {
-        margin: 0;
-        padding: 0;
-        font-family: Arial, sans-serif;
-        height: 100%; /* Ensure the full height is used */
-        overflow: hidden; /* Hide the overflow */
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     }
 
-    .content {
-        /* Add padding, margin or any other style you wish to apply to the content */
-        padding: 20px;
-        text-align: center; /* Center the text if desired */
-    }
-    
     #game-area {
-        width: 100vw;
-        height: calc(100vh - 60px); /* Adjust this value to match the actual height of your content area */
-        position: relative;
-        background-color: #f0f0f0; /* Light grey background for better visibility */
-        overflow: hidden; /* Prevents any content from spilling outside the area */
+    width: 80%;
+    height: 80%;
+    border: 2px solid black;
+    position: relative;
     }
-    
+
     #smiley {
-        font-size: 30px;
-        position: absolute;
-        transform: translate(-50%, -50%);
-        cursor: pointer; /* Change cursor to pointer when hovering over smiley */
+    font-size: 30px;
+    position: absolute;
+    transform: translate(-50%, -50%);
     }
-    
+
     #scoreboard {
-        position: absolute;
-        top: 10px;
-        left: 10px;
-        background: rgba(255, 255, 255, 0.7); /* Semi-transparent background */
-        padding: 10px;
-        border-radius: 5px;
+    margin-top: 20px;
     }
 </style>
