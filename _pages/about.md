@@ -18,11 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<<<<<<< HEAD
 I was borned and raised in Guangzhou, China, currently working as a machine learning and software development engineer at the Hong Kong Applied Science and Technology Research Institute (ASTRI). At ASTRI, I'm part of the Computational Linguistics and Intelligence team. I am also a Phd student at the Hong Kong University of Technology (HKUST), supervised by [Prof. Yike Guo](https://hkust.edu.hk/zh-hant/senior-adm/provost). My research mainlly focus on Large Language Models (LLM) and Generative Artificial Intelligence (GAI).
-=======
-I was borned and raised in Guangzhou, China, currently working at the Hong Kong Applied Science and Technology Research Institute (ASTRI). At ASTRI, I'm part of the Computational Linguistics and Intelligence group, focusing on large language models and speech recognition. My goal is to contribute to advancements in multi-modality data analysis and generative AI.
->>>>>>> parent of 2637e09 (Update about.md)
 
 Previously, I was a research assistant at the Hong Kong Polytechnic University, under the supervision of [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/). I hold a dual BSc degree in Mathematics from South China University of Technology and the University of Birmingham, as well as a MSc in AI & Machine Learning. 
 
