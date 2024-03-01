@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I was borned and raised in Guangzhou, China, currently working as a machine learning and software engineer at the Hong Kong Applied Science and Technology Research Institute (ASTRI). At ASTRI, I'm part of the Computational Linguistics and Intelligence team. I am also a Phd student at the Hong Kong University of Technology (HKUST), supervised by [Prof. Yike Guo](https://hkust.edu.hk/zh-hant/senior-adm/provost). My research mainlly focus on Large Language Models (LLM) and Generative Artificial Intelligence (GAI).
+I was borned and raised in Guangzhou, China, currently working as a machine learning and software development engineer at the Hong Kong Applied Science and Technology Research Institute (ASTRI). At ASTRI, I'm part of the Computational Linguistics and Intelligence team. I am also a Phd student at the Hong Kong University of Technology (HKUST), supervised by [Prof. Yike Guo](https://hkust.edu.hk/zh-hant/senior-adm/provost). My research mainlly focus on Large Language Models (LLM) and Generative Artificial Intelligence (GAI).
 
 Previously, I was a research assistant at the Hong Kong Polytechnic University, under the supervision of [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/). I graduated from South China University of Technology with a BSc in Mathematics and the University of Birmingham with a MSc in AI & Machine Learning. 
 
