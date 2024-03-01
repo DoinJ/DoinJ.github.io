@@ -11,6 +11,11 @@
 - title: Education
   type: time_table
   contents:
+      - title: Phd
+      institution: Hong Kong University of Technology (HKUST)
+      year: 2024 - present
+      description:
+        - Computer Science and Engineering (On-going).
     - title: MSc
       institution: University of Birmingham (UOB)
       year: 2021
@@ -39,7 +44,7 @@
             - Automatic Speech Regonition.
     - title: Research Assistant
       institution: The Hong Kong Polytechnic Universitiy (PolyU)
-      year: 1933
+      year: 2021 - 2023
       description:
         - Big data and machine learning.
         - Recommender system.
