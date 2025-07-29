@@ -2,6 +2,7 @@ github_users:
   - doinj
 
 github_repos:
+  - DoinJ/NVA-Pipeline
   - DoinJ/Graph-Embedding-for-Drug-Side-Effect-Prediction
   - DoinJ/Knowledge-concept-FedRec
 
